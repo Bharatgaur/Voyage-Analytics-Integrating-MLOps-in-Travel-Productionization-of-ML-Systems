@@ -1,0 +1,25 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+
+# IDE settings
+.vscode/
+
+# Environment variables / secrets
+.env
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MLflow tracking
+mlruns/
+
+# Model files
+models/industrygpt_finetuned/*.safetensors
+models/industrygpt_finetuned/*.bin
