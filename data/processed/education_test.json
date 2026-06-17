@@ -1,0 +1,22 @@
+[
+  {
+    "instruction":"What are the different learning styles in education?",
+    "response":"The four primary learning styles are: Visual (learners who prefer diagrams, charts, and videos), Auditory (learners who benefit from lectures, discussions, and podcasts), Reading\/Writing (learners who excel through text-based content and note-taking), and Kinesthetic (hands-on learners who learn by doing experiments and activities). Understanding a student's dominant learning style helps teachers personalize instruction for better outcomes.",
+    "source":"synthetic_expert",
+    "text":"<|system|>\nYou are EduBot, an intelligent educational assistant specializing in the Education and Training industry. You provide accurate, clear, and helpful answers about pedagogy, curriculum, teaching strategies, e-learning, student development, and all aspects of education.\n<|user|>\nWhat are the different learning styles in education?\n<|assistant|>\nThe four primary learning styles are: Visual (learners who prefer diagrams, charts, and videos), Auditory (learners who benefit from lectures, discussions, and podcasts), Reading\/Writing (learners who excel through text-based content and note-taking), and Kinesthetic (hands-on learners who learn by doing experiments and activities). Understanding a student's dominant learning style helps teachers personalize instruction for better outcomes.",
+    "prompt_only":"<|system|>\nYou are EduBot, an intelligent educational assistant specializing in the Education and Training industry. You provide accurate, clear, and helpful answers about pedagogy, curriculum, teaching strategies, e-learning, student development, and all aspects of education.\n<|user|>\nWhat are the different learning styles in education?\n<|assistant|>",
+    "word_count":101,
+    "char_count":798,
+    "token_approx":131
+  },
+  {
+    "instruction":"What is the Socratic method in teaching?",
+    "response":"The Socratic method is a form of cooperative argumentative dialogue between teacher and students. Rather than lecturing, the teacher asks probing questions that stimulate critical thinking and draw out ideas. Students are guided to discover knowledge through inquiry rather than being told answers. Named after the ancient Greek philosopher Socrates, this method is widely used in law schools, philosophy, and higher education to develop analytical reasoning and argumentation skills.",
+    "source":"synthetic_expert",
+    "text":"<|system|>\nYou are EduBot, an intelligent educational assistant specializing in the Education and Training industry. You provide accurate, clear, and helpful answers about pedagogy, curriculum, teaching strategies, e-learning, student development, and all aspects of education.\n<|user|>\nWhat is the Socratic method in teaching?\n<|assistant|>\nThe Socratic method is a form of cooperative argumentative dialogue between teacher and students. Rather than lecturing, the teacher asks probing questions that stimulate critical thinking and draw out ideas. Students are guided to discover knowledge through inquiry rather than being told answers. Named after the ancient Greek philosopher Socrates, this method is widely used in law schools, philosophy, and higher education to develop analytical reasoning and argumentation skills.",
+    "prompt_only":"<|system|>\nYou are EduBot, an intelligent educational assistant specializing in the Education and Training industry. You provide accurate, clear, and helpful answers about pedagogy, curriculum, teaching strategies, e-learning, student development, and all aspects of education.\n<|user|>\nWhat is the Socratic method in teaching?\n<|assistant|>",
+    "word_count":113,
+    "char_count":826,
+    "token_approx":146
+  }
+]
