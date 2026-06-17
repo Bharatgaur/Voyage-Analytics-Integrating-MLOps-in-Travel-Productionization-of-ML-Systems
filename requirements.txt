@@ -1,0 +1,58 @@
+# ============================================================
+# EduBot LLM Project — Requirements
+# Industry: Education and Training
+# ============================================================
+
+# Core NLP / LLM
+transformers==4.40.1
+datasets==2.19.0
+tokenizers==0.19.1
+accelerate==0.29.3
+peft==0.10.0           # LoRA / PEFT fine-tuning
+trl==0.8.6             # SFTTrainer for instruction fine-tuning
+bitsandbytes==0.43.1   # 4-bit / 8-bit quantization (GPU)
+
+# Hugging Face Hub
+huggingface-hub==0.22.2
+sentencepiece==0.2.0
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.4
+scikit-learn==1.4.2
+nltk==3.8.1
+regex==2024.4.16
+
+# Evaluation
+rouge-score==0.1.2
+sacrebleu==2.4.2
+evaluate==0.4.1
+
+# Web Scraping / Data Collection
+requests==2.31.0
+beautifulsoup4==4.12.3
+scrapy==2.11.1
+
+# Streamlit App
+streamlit==1.33.0
+streamlit-chat==0.1.1
+
+# Flask (alternative API)
+flask==3.0.3
+flask-cors==4.0.0
+
+# Utilities
+python-dotenv==1.0.1
+tqdm==4.66.2
+loguru==0.7.2
+joblib==1.4.0
+PyPDF2==3.0.1
+
+# Torch (CPU-safe; Colab uses CUDA automatically)
+torch==2.2.2
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.21.0
+wordcloud==1.9.3
